@@ -7,7 +7,7 @@ public class FirstGit {
 
         }
 
-    public void tew(){
+    private void tew(){
         System.out.println("i love you");
     }
 }
